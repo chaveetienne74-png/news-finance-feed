@@ -1,23 +1,30 @@
-{
-  "feed": {
-    "title": "News Finance du Jour",
-    "items": [
-      {
-        "type": "article",
-        "title": "CAC40 en hausse de 1.2% après résultats solides",
-        "thumbnail": "https://via.placeholder.com/300x200/007BFF/FFFFFF?text=CAC40",
-        "content": "<h3>Résumé rapide :</h3><p>Les indices européens ont rebondi ce lundi. Le CAC40 gagne +1.2% à 7 450 points, porté par les valeurs bancaires. À suivre : discours Fed demain.</p><p>Impact : Opportunité pour les ETF Europe.</p>",
-        "date": "04/01/2026",
-        "url": "https://bfmbusiness.bfmtv.com/bourse/cac40-hausse_AN-202601040123.html"
-      },
-      {
-        "type": "article",
-        "title": "Tesla chute de 8% en after-market",
-        "thumbnail": "https://via.placeholder.com/300x200/DC3545/FFFFFF?text=Tesla",
-        "content": "<p>Tesla dévisse après résultats Q4 décevants. CA +2% seulement vs consensus +12%. Elon promet robotaxis en 2026.</p><p>Position : Vente short ou attendre rebond tech ?</p>",
-        "date": "04/01/2026",
-        "url": "https://www.boursorama.com/bourse/actualites/tesla-chute-apres-resultats-123456"
-      }
-    ]
-  }
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>📰 News Finance du Jour</title>
+  <link>https://github.com/tonpseudo/news-finance-feed</link>
+  <description>Top 3 news marchés - Swipe pour lire</description>
+  <item>
+    <title>CAC40 +1.2% : Banques en feu 🔥</title>
+    <link>https://bfm.fr/cac40</link>
+    <description><![CDATA[
+      <h3>En bref :</h3>
+      <p>Rebond européen après résultats trimestriels solides. CAC40 à 7 450pts.</p>
+      <p><strong>Impact :</strong> ETF Euro Stoxx 50 à l'achat.</p>
+      <p>Source : BFM Business</p>
+    ]]></description>
+    <pubDate>Mon, 04 Jan 2026 17:00:00 +0100</pubDate>
+    <guid>news1</guid>
+  </item>
+  <item>
+    <title>Tesla -8% : Résultats décevants</title>
+    <link>https://boursorama.com/tesla</link>
+    <description><![CDATA[
+      <p>CA +2% vs consensus +12%. Robotaxis repoussés à 2026.</p>
+      <p>Stratégie : Short ou attendre dip-buy ?</p>
+    ]]></description>
+    <pubDate>Mon, 04 Jan 2026 16:30:00 +0100</pubDate>
+    <guid>news2</guid>
+  </item>
+</channel>
+</rss>

@@ -1,43 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>📰 News Finance du Jour</title>
-  <link>https://github.com/chaveetienne74-png/news-finance-feed</link>
-  <description>7 derniers articles finance - 1 par jour</description>
+  <link>https://raw.githubusercontent.com/chaveetienne74-png/news-finance-feed/main/New2.xml</link>
+  <description>7 derniers articles finance</description>
   
-  <!-- JOUR 1 -->
-<item>
-    <title>**PÉTROLE : Double choc géopolitique**</title>
-    <link>https://exemple.com/petrole-choc-geopolitique</link>
+  <item>
+    <title>PÉTROLE : Double choc géopolitique</title>
+    <link>https://exemple.com/petrole</link>
     <description><![CDATA[
-**Le baril de Brent bondit au-dessus de 61$** ce week-end, tiré de sa torpeur par une opération militaire américaine surprise au Venezuela et une recrudescence des frappes en Russie. 
-
-Si la **prime de risque géopolitique** est de retour, elle se heurte à une réalité fondamentale : **le monde ne manque pas de pétrole**.
-
-**L'année 2026** s'ouvre sur un scénario inattendu. Peu de traders anticipaient ces deux "**Cygnes Noirs**" géopolitiques dès les premières 48 heures de janvier, malgré les prévisions de baisse dues à la faiblesse de la demande chinoise.
-
-### **Le détonateur vénézuélien**
-L'opération "**Flashpoint**" de Washington aboutit à l'**exfiltration et capture de Nicolas Maduro**. Victoire politique pour la Maison Blanche, mais incertitude pour les marchés. 
-
-Les **sanctions immédiates** sur la flotte fantôme vénézuélienne menacent de retirer **400 000 barils/jour**. Casse-tête logistique pour les raffineurs du Golfe du Mexique, soutenant les prix du **WTI**.
-
-### **Escalade sur le front Est**
-La guerre en Europe de l'Est franchit un cap le **1er janvier**. **Frappes de drones ukrainiens** sur les infrastructures de Krasnodar, dont la raffinerie d'**Ilsky**.
-
-Cela rappelle la **vulnérabilité russe**, forçant les algorithmes à réintégrer une "**prime de guerre**" de **3-4$/baril**, évaporée fin 2025.
-
-### **Le plafond des fondamentaux**
-L'**euphorie reste contenue**, comme le notent les analystes de **Vanda Insights** : "le bruit géopolitique ne masque pas le signal fondamental". 
-
-Marché **excédentaire** : production non-OPEC (USA, Brésil, Guyane) inonde, **OPEC+** a **5 millions b/j** de réserves.
-
-### **Perspectives**
-Pour la semaine, le seuil des **65$ Brent** est clé. Si troubles à Caracas persistent, hausse possible. Sinon, l'**offre excédentaire** limitera le rebond des valeurs comme **TotalEnergies** ou **Exxon**.
+      <img src="https://images.unsplash.com/photo-1652059515594-834a31e83feb?w=400" style="width:100%;height:200px;object-fit:cover;margin-bottom:15px;"/>
+      <strong>Brent >61$ :</strong> Opération US Venezuela + frappes Russie. Prime risque +3-4$/b. Sanctions 400kb/j. OPEC+ 5M réserves. TotalEnergies surveiller. Source Vanda 04/01.
     ]]></description>
-    <pubDate>Dimanche 04 Janvier 2026</pubDate>
-    <guid>news-20260104-1</guid>
-    <enclosure url="https://images.unsplash.com/photo-1652059515594-834a31e83feb?q=80&w=1104&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" type="image/jpeg" />
-</item>
-  
+    <media:thumbnail url="https://images.unsplash.com/photo-1652059515594-834a31e83feb?w=400&fit=crop" width="400" height="250"/>
+    <pubDate>Sun, 04 Jan 2026 19:00:00 +0100</pubDate>
+    <guid>news-040126-petrole</guid>
+  </item>
 </channel>
 </rss>

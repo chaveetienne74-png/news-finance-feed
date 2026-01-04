@@ -39,59 +39,5 @@ Pour la semaine, le seuil des **65$ Brent** est clé. Si troubles à Caracas per
     <enclosure url="https://images.unsplash.com/photo-1652059515594-834a31e83feb?q=80&w=1104&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" type="image/jpeg" />
 </item>
   
-  <!-- JOUR 2 -->
-  <item>
-    <title>[ARTICLE 2 - TITRE]</title>
-    <link>https://exemple.com/article2</link>
-    <Article>[400 MOTS ENVIRON]</description>
-    <pubDate>Sat, 03 Jan 2026 18:00:00 +0100</pubDate>
-    <guid>news-030126-1</guid>
-  </item>
-  
-  <!-- JOUR 3 -->
-  <item>
-    <title>[ARTICLE 3 - TITRE]</title>
-    <link>https://exemple.com/article3</link>
-    <Article>[400 MOTS ENVIRON]</description>
-    <pubDate>Fri, 02 Jan 2026 18:00:00 +0100</pubDate>
-    <guid>news-020126-1</guid>
-  </item>
-  
-  <!-- JOUR 4 -->
-  <item>
-    <title>[ARTICLE 4 - TITRE]</title>
-    <link>https://exemple.com/article4</link>
-    <Article>[400 MOTS ENVIRON]</description>
-    <pubDate>Thu, 01 Jan 2026 18:00:00 +0100</pubDate>
-    <guid>news-010126-1</guid>
-  </item>
-  
-  <!-- JOUR 5 -->
-  <item>
-    <title>[ARTICLE 5 - TITRE]</title>
-    <link>https://exemple.com/article5</link>
-    <Article>[400 MOTS ENVIRON]</description>
-    <pubDate>Wed, 31 Dec 2025 18:00:00 +0100</pubDate>
-    <guid>news-311225-1</guid>
-  </item>
-  
-  <!-- JOUR 6 -->
-  <item>
-    <title>[ARTICLE 6 - TITRE]</title>
-    <link>https://exemple.com/article6</link>
-    <Article>[400 MOTS ENVIRON]</description>
-    <pubDate>Tue, 30 Dec 2025 18:00:00 +0100</pubDate>
-    <guid>news-301225-1</guid>
-  </item>
-  
-  <!-- JOUR 7 (LE PLUS ANCIEN - DIS PARAÎT APRÈS JOUR 8) -->
-  <item>
-    <title>[ARTICLE 7 - TITRE]</title>
-    <link>https://exemple.com/article7</link>
-    <Article>[400 MOTS ENVIRON]</description>
-    <pubDate>Mon, 29 Dec 2025 18:00:00 +0100</pubDate>
-    <guid>news-291225-1</guid>
-  </item>
-  
 </channel>
 </rss>

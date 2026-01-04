@@ -6,13 +6,38 @@
   <description>7 derniers articles finance - 1 par jour</description>
   
   <!-- JOUR 1 -->
-  <item>
-    <title>[TON TITRE - MAX 60 CARACTÈRES]</title>
-    <link>https://exemple.com/article1</link>
-    <Article>[400 MOTS ENVIRON]</description>
-    <pubDate>Sun, 04 Jan 2026 18:00:00 +0100</pubDate>
-    <guid>news-040126-1</guid>
-  </item>
+<item>
+    <title>**PÉTROLE : Double choc géopolitique**</title>
+    <link>https://exemple.com/petrole-choc-geopolitique</link>
+    <description><![CDATA[
+**Le baril de Brent bondit au-dessus de 61$** ce week-end, tiré de sa torpeur par une opération militaire américaine surprise au Venezuela et une recrudescence des frappes en Russie. 
+
+Si la **prime de risque géopolitique** est de retour, elle se heurte à une réalité fondamentale : **le monde ne manque pas de pétrole**.
+
+**L'année 2026** s'ouvre sur un scénario inattendu. Peu de traders anticipaient ces deux "**Cygnes Noirs**" géopolitiques dès les premières 48 heures de janvier, malgré les prévisions de baisse dues à la faiblesse de la demande chinoise.
+
+### **Le détonateur vénézuélien**
+L'opération "**Flashpoint**" de Washington aboutit à l'**exfiltration et capture de Nicolas Maduro**. Victoire politique pour la Maison Blanche, mais incertitude pour les marchés. 
+
+Les **sanctions immédiates** sur la flotte fantôme vénézuélienne menacent de retirer **400 000 barils/jour**. Casse-tête logistique pour les raffineurs du Golfe du Mexique, soutenant les prix du **WTI**.
+
+### **Escalade sur le front Est**
+La guerre en Europe de l'Est franchit un cap le **1er janvier**. **Frappes de drones ukrainiens** sur les infrastructures de Krasnodar, dont la raffinerie d'**Ilsky**.
+
+Cela rappelle la **vulnérabilité russe**, forçant les algorithmes à réintégrer une "**prime de guerre**" de **3-4$/baril**, évaporée fin 2025.
+
+### **Le plafond des fondamentaux**
+L'**euphorie reste contenue**, comme le notent les analystes de **Vanda Insights** : "le bruit géopolitique ne masque pas le signal fondamental". 
+
+Marché **excédentaire** : production non-OPEC (USA, Brésil, Guyane) inonde, **OPEC+** a **5 millions b/j** de réserves.
+
+### **Perspectives**
+Pour la semaine, le seuil des **65$ Brent** est clé. Si troubles à Caracas persistent, hausse possible. Sinon, l'**offre excédentaire** limitera le rebond des valeurs comme **TotalEnergies** ou **Exxon**.
+    ]]></description>
+    <pubDate>Dimanche 04 Janvier 2026</pubDate>
+    <guid>news-20260104-1</guid>
+    <enclosure url="https://images.unsplash.com/photo-1652059515594-834a31e83feb?q=80&w=1104&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" type="image/jpeg" />
+</item>
   
   <!-- JOUR 2 -->
   <item>

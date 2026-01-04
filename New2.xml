@@ -1,133 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
-  <channel>
-    <title>Actualités Financières Pro | 4 janvier 2026</title>
-    <link>https://github.com/finance-news-rss</link>
-    <description>Analyse financière quotidienne - Marché, inflation, politique monétaire</description>
-    <language>fr</language>
-    <lastBuildDate>Sun, 04 Jan 2026 18:00:00 CET</lastBuildDate>
-
-    <item>
-      <title>La Fed face au dilemme inflation-emploi : entre pression tarifaire et fragilité du marché du travail</title>
-      <link>https://finance-pro.fr/fed-dilemme-inflation-2026</link>
-      <guid>fed-inflation-dilemma-2026-01-04</guid>
-      <pubDate>Sun, 04 Jan 2026 18:00:00 CET</pubDate>
-      
-      <!-- IMAGE LIBRE VÉRIFIÉE -->
-      <media:content url="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&amp;h=630&amp;fit=crop" medium="image" type="image/jpeg"/>
-      
-      <description>La Réserve Fédérale américaine débute 2026 dans une posture délicate : inflation persistante à 2,4-2,5% contre un objectif de 2%, détérioration du marché du travail, pressions tarifaires imminentes, et transition politique majeure en mai avec le départ de Jerome Powell. Les marchés anticipent 2 baisses de taux quand la Fed n'en prévoit qu'une.</description>
-      
-      <content:encoded><![CDATA[
-## LA FED FACE AU DILEMME 2026 : CROISSANCE ROBUSTE VS INFLATION PERSISTANTE
-
-### 📊 LES CHIFFRES CLÉS
-
-**Projections PCE inflation (Fed - 10 décembre 2025)**
-| Métrique | 2025 | 2026 | 2027 | Cible |
-|----------|------|------|------|-------|
-| **PCE Headline** | 2,9% | 2,4% | 2,1% | 2,0% |
-| **Core PCE** | 3,0% | 2,5% | 2,1% | 2,0% |
-| **Plage Fed 2026** | — | 2,3%-2,5% | — | — |
-| **Market implied Jan 2026** | — | 2,42% | — | — |
-
-**Politique monétaire : asymétrie croissante**
-| Acteur | Prévision taux 2026 | Justification |
-|--------|-------------------|---------------|
-| **Fed (médiane)** | 3,4% (1 coupe) | Prudence + croissance forte |
-| **Goldman Sachs** | 2 baisses | Indépendance + emploi faible |
-| **Moody's Analytics** | 3 baisses | Récession probable |
-| **Marchés (pricing)** | 2,5-2,75% | 2+ baisses attendues |
-
----
-
-### ⚡ LE TRIANGLE DES CONTRAINTES
-
-**1. INFLATION ÉTALÉE DANS LE TEMPS**
-- Core PCE reste à 2,4-2,6% sur H1 2026 avant désinflation progressive
-- Risques tarifaires non encore pleinement intégrés (Trump 2e mandat)
-- 12/19 membres du FOMC jugent les risques inflation « orientés vers le haut »
-
-**2. MARCHÉ DU TRAVAIL EN DÉGRADATION**
-- Chômage : 4,5% fin 2025 → 4,4% projection 2026 (mais tendance haussière visible)
-- Triggers Sahm Rule plusieurs fois activés fin 2025
-- Croissance PIB 2026 : 2,3% projeté (robuste, mais en modération)
-
-**3. TRANSITION POLITIQUE + FIN MANDAT POWELL**
-- Départ Powell mai 2026 (fin mandat 18 ans)
-- Successeur annoncé janvier 2026 (probabilité Trump = Kevin Hassett favori)
-- Pression politique pour baisses rapides vs indépendance Fed
-
----
-
-### 🎯 SCÉNARIOS PROBABILISÉS
-
-**SCÉNARIO 1 : La Fed tient bon (Probabilité 45%)**
-- 0-1 coupe en 2026, Fed se concentre sur « neutral rate » (~3,0%)
-- Inflation progresse vers 2,3-2,5% H2 2026
-- Croissance 2,1-2,4% (douce, sans récession)
-- **Impact marchés** : Obligations stables, actions défensives outperforment
-
-**SCÉNARIO 2 : Capitulation progressive (Probabilité 40%)**
-- 2-3 coupes (juin + septembre/novembre)
-- Nouveau Chair plus accommodant change ton décembre 2026
-- Inflation converge 2,2-2,4% (objective non atteinte)
-- **Impact marchés** : Rally équités cycliques, USD en repli, high-yield rebond
-
-**SCÉNARIO 3 : Choc emploi / Récession (Probabilité 15%)**
-- 3-4 coupes urgentes si chômage > 5,0%
-- Désinflation rapide mais croissance négative
-- Crise de confiance politique/marchés
-- **Impact marchés** : Safe-haven rallye (Trésor, yen, franc), actions -20%+
-
----
-
-### 💡 3 TACTIQUES POUR INVESTISSEURS/TRADERS
-
-**1. POSITIONNEMENT OBLIGATAIRE ASYMÉTRIQUE**
-- Surpondérer obligations courtes (2-3 ans) : rendement 4,2-4,4% si taux stables
-- Optionnalité callables / floating-rate notes si Fed baisse < 2x
-- Sous-pondérer long terme (10Y = 4,1%) : risque de normalisation fi-scale
-
-**2. HEDGE INFLATION TRANCHÉ**
-- Exposition équités « tarifaires » (Michelin, Safran, STM) vs tarif-exposed (retailers, imports)
-- TIPS 5Y hedge si inflation > 2,5% H1 2026
-- Commodities selectif (oil > copper, attendre baisses)
-
-**3. ARBITRAGE POLITIQUE/TAUX**
-- Options fed funds : vega long (vol implicite 8-10 bp, peu chère)
-- USD shorts asymétrique : risque baisse Fed > gain boursier
-- Fed Put pricing diminue 2026 : éviter short pur équités sans hedge taux
-
----
-
-### 📈 CATALYSEURS À SURVEILLER (janvier - mars 2026)
-
-| Date | Événement | Impact |
-|------|-----------|--------|
-| **Jan 15** | CPI/PCE décembre 2025 | Seuil critique inflation |
-| **Jan 29** | FOMC + Dot Plot | Guidance taux 2026 |
-| **Fin janvier** | Annonce nouveau Chair Fed | Tonalité politique clé |
-| **Fév 21** | Supreme Court Trump Cook | Précédent constitutionnel |
-| **Mar 11-12** | CPI février + FOMC | Confirmation ou pivot |
-
----
-
-### 🚨 RISQUE PRINCIPAL : DÉNOUEMENT POLITIQUE
-
-Powell maintient son indépendance nominale jusqu'en mai 2026, mais nouveau Chair nommé dès janvier crée **dualité de pouvoir** sans précédent depuis 1948. Si successor promu dès février → signaux accommodants immédiat, contredisant Fed. **Volatilité VIX probable si fork manifeste.**
-
-**Consensus expert** : Désinflation lente + 1-2 coupes, mais timeline/timing radicalement incertains = biais options long volatilité (straddle Feb FOMC).
-
----
-
-**Sources**
-Federal Reserve Summary of Economic Projections (Dec 10, 2025)[51]
-CNBC - Powell faces challenges 2026[36]
-Financial Forecast Center - Core PCE[40]
-Fibée - Fed divisions 2026[39]
-Zonebourse - Dollar/Fed outlook[41]
-      ]]></content:encoded>
-    </item>
-  </channel>
+<rss version="2.0">
+<channel>
+  <title>📰 News Finance du Jour</title>
+  <link>https://github.com/chaveetienne74-png/news-finance-feed</link>
+  <description>7 derniers articles finance - 1 par jour</description>
+  
+  <!-- JOUR 1 -->
+  <item>
+    <title>[TON TITRE - MAX 60 CARACTÈRES]</title>
+    <link>https://exemple.com/article1</link>
+    <Article>[400 MOTS ENVIRON]</description>
+    <pubDate>Sun, 04 Jan 2026 18:00:00 +0100</pubDate>
+    <guid>news-040126-1</guid>
+  </item>
+  
+  <!-- JOUR 2 -->
+  <item>
+    <title>[ARTICLE 2 - TITRE]</title>
+    <link>https://exemple.com/article2</link>
+    <Article>[400 MOTS ENVIRON]</description>
+    <pubDate>Sat, 03 Jan 2026 18:00:00 +0100</pubDate>
+    <guid>news-030126-1</guid>
+  </item>
+  
+  <!-- JOUR 3 -->
+  <item>
+    <title>[ARTICLE 3 - TITRE]</title>
+    <link>https://exemple.com/article3</link>
+    <Article>[400 MOTS ENVIRON]</description>
+    <pubDate>Fri, 02 Jan 2026 18:00:00 +0100</pubDate>
+    <guid>news-020126-1</guid>
+  </item>
+  
+  <!-- JOUR 4 -->
+  <item>
+    <title>[ARTICLE 4 - TITRE]</title>
+    <link>https://exemple.com/article4</link>
+    <Article>[400 MOTS ENVIRON]</description>
+    <pubDate>Thu, 01 Jan 2026 18:00:00 +0100</pubDate>
+    <guid>news-010126-1</guid>
+  </item>
+  
+  <!-- JOUR 5 -->
+  <item>
+    <title>[ARTICLE 5 - TITRE]</title>
+    <link>https://exemple.com/article5</link>
+    <Article>[400 MOTS ENVIRON]</description>
+    <pubDate>Wed, 31 Dec 2025 18:00:00 +0100</pubDate>
+    <guid>news-311225-1</guid>
+  </item>
+  
+  <!-- JOUR 6 -->
+  <item>
+    <title>[ARTICLE 6 - TITRE]</title>
+    <link>https://exemple.com/article6</link>
+    <Article>[400 MOTS ENVIRON]</description>
+    <pubDate>Tue, 30 Dec 2025 18:00:00 +0100</pubDate>
+    <guid>news-301225-1</guid>
+  </item>
+  
+  <!-- JOUR 7 (LE PLUS ANCIEN - DIS PARAÎT APRÈS JOUR 8) -->
+  <item>
+    <title>[ARTICLE 7 - TITRE]</title>
+    <link>https://exemple.com/article7</link>
+    <Article>[400 MOTS ENVIRON]</description>
+    <pubDate>Mon, 29 Dec 2025 18:00:00 +0100</pubDate>
+    <guid>news-291225-1</guid>
+  </item>
+  
+</channel>
 </rss>

@@ -9,7 +9,7 @@
     
     <description><![CDATA[
       <!-- IMAGE ORIGINALE - TAILLE NATIVE -->
-      <img src="https://images.pexels.com/photos/17302609/pexels-photo-17302609.jpeg" 
+      <img src="https://images.pexels.com/photos/17302609/pexels-photo-17302609.jpeg"
            alt="Réserve Fédérale USA - ©Pexels" 
            style="width:100%;max-height:300px;height:auto;object-fit:cover;margin-bottom:15px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.15);"/>
       

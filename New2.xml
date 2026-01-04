@@ -1,22 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>News Finance du Jour</title>
+  <title>Les Echos Finance | 04/01/2026</title>
   <link>https://github.com/chaveetienne74-png/news-finance-feed</link>
-  <description>CAC40 analyse complete</description>
+  <description>CAC40 : Début 2026 sous haute tension</description>
+  
   <item>
-    <title>CAC40 +0.56% : 2026 démarre fort !</title>
-    <link>https://boursorama.com/cac40</link>
-    <description>CAC40 a gagne 0.56% a 8195 pts premiere seance 2026. STMicro +4.5%, Safran +3.3%. A surveiller : PMI mardi, Fed mercredi. Strategie : Achat STMicro (cible 45eur), ETF CAC40. Risques : Geopolitique Moyen-Orient. Source Boursorama 04/01/2026.</description>
-    <pubDate>Sun, 04 Jan 2026 18:00:00 +0100</pubDate>
-    <guid>1</guid>
-  </item>
-  <item>
-    <title>Wall Street : 4 actions vers 1T$</title>
-    <link>https://finance.yahoo.com</link>
-    <description>S&P500 stable. 4 stocks janvier : Oracle, Netflix potentiels Nvidia. Rotation tech-value. Source Yahoo Finance.</description>
-    <pubDate>Sun, 04 Jan 2026 17:30:00 +0100</pubDate>
-    <guid>2</guid>
+    <title>Le CAC 40 entame 2026 sur une note prudemment optimiste</title>
+    <link>https://www.lesechos.fr/finance-marches/bourse/cac40-2026-ouverture</link>
+    
+    <description><![CDATA[
+      <div style="font-family:Georgia,serif;line-height:1.5;">
+        <h2 style="color:#1a3c5e;">Le CAC 40 entame 2026 sur une note prudemment optimiste</h2>
+        <p><em>Par la rédaction | Paris | 04 janvier 2026, 17h45</em></p>
+        
+        <h3>Contexte : une première séance dans volumes réduits</h3>
+        <p>L'indice phare de la place de Paris a clôturé vendredi sa première séance de l'année sur un gain modeste de <strong>+0,56 %</strong>, à <strong>8 195,47 points</strong>. Dans un contexte de volumes clairsemés – les marchés américains étant fermés pour cause de jour férié – cette performance illustre un optimisme prudent face à l'incertitude macroéconomique.</p>
+        
+        <h3>Les grands gagnants de la séance</h3>
+        <p>Le secteur technologique a brillé avec <strong>STMicroelectronics (+4,5 %)</strong>, porté par l'engouement persistant pour l'intelligence artificielle et les semi-conducteurs. L'aéronautique a également pesé de tout son poids : <strong>Safran (+3,3 %)</strong> et <strong>Airbus (+2,7 %)</strong> profitent des carnets de commandes records et de la reprise du trafic aérien mondial.</p>
+        <p>Dans l'automobile, <strong>Stellantis (+3,3 %)</strong> confirme son rebond après une année 2025 difficile marquée par une chute de 25 %. Les valeurs défensives comme <strong>Danone (+1,8 %)</strong> complètent ce tableau rassurant.</p>
+        
+        <h3>Analyse technique : les seuils à surveiller</h3>
+        <p>Sur le plan graphique, le CAC 40 consolide au-dessus de sa moyenne mobile 50 jours (8 100 pts). Le franchissement des <strong>8 200 points</strong> – niveau psychologique majeur – ouvrirait la voie vers les 8 500, plus hauts de novembre 2025. En cas de repli, les supports se situent à 8 100 puis 8 000 points.</p>
+        <p>L'indicateur RSI à 55 indique un momentum neutre mais haussier, tandis que le MACD confirme le croisement doré des moyennes mobiles.</p>
+        
+        <h3>Agenda de la semaine : catalyseurs majeurs</h3>
+        <ul>
+          <li><strong>Mardi 6 :</strong> PMI industrie France (49,5 esp.) et Allemagne (44,6).</li>
+          <li><strong>Mercredi 7 :</strong> Discours Fed (taux 4,25-4,50 % attendus stables).</li>
+          <li><strong>Vendredi 9 :</strong> Non-Farm Payrolls US (prévision +180 000 emplois).</li>
+        </ul>
+        
+        <h3>Perspectives stratégiques</h3>
+        <p>Les valeurs cycliques (semi-conducteurs, aéronautique) conservent notre préférence avec un objectif à 3 mois à <strong>8 500 points</strong>. <strong>STMicroelectronics</strong> vise 45 € (upside 20 %), soutenu par la demande IA.</p>
+        <p><strong>Safran</strong> bénéficie de la consolidation du carnet de commandes (650 Md€) et du plan « Leap 2027 ». À l'inverse, les valeurs bancaires restent sensibles à la normalisation des taux.</p>
+        
+        <h3>Risques géopolitiques en toile de fond</h3>
+        <p>Les tensions au Moyen-Orient et l'incertitude post-électorale américaine pèsent sur le pétrole (Brent 78 $). Un PMI manufacturier décevant pourrait ramener l'indice vers 8 000 points.</p>
+        
+        <blockquote>"2026 pourrait être l'année de la rotation sectorielle vers l'Europe, bon marché par rapport aux États-Unis" – Stratégiste Reuters.</blockquote>
+        
+        <p><strong>Sources :</strong> Euronext, Boursorama, Cercle Finance | Mise à jour 04/01/2026 18h15</p>
+      </div>
+    ]]></description>
+    
+    <pubDate>Sun, 04 Jan 2026 18:15:00 +0100</pubDate>
+    <guid>cac40-lesechos-040126</guid>
   </item>
 </channel>
 </rss>

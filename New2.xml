@@ -1,30 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>📰 News Finance du Jour</title>
-  <link>https://github.com/tonpseudo/news-finance-feed</link>
-  <description>Top 3 news marchés - Swipe pour lire</description>
+  <title>📰 News Finance du Jour - 04/01/2026</title>
+  <link>https://github.com/chaveetienne74-png/news-finance-feed</link>
+  <description>Analyse complète : CAC40 lance 2026 - Opportunités & risques</description>
+  
   <item>
-    <title>CAC40 +1.2% : Banques en feu 🔥</title>
-    <link>https://bfm.fr/cac40</link>
+    <title>🇫🇷 CAC40 +0.56% : Paris s'élance vers 8200 pts pour 2026 !</title>
+    <link>https://www.boursorama.com/bourse/actualites/cac40-hausse-2026/</link>
     <description><![CDATA[
-      <h3>En bref :</h3>
-      <p>Rebond européen après résultats trimestriels solides. CAC40 à 7 450pts.</p>
-      <p><strong>Impact :</strong> ETF Euro Stoxx 50 à l'achat.</p>
-      <p>Source : BFM Business</p>
+      <h2>📈 CAC40 : Début d'année solide à 8 195 pts</h2>
+      
+      <h3>🎯 Le contexte</h3>
+      <p>La Bourse de Paris a parfaitement lancé 2026 avec <strong>+0.56% à 8 195 pts</strong> vendredi 2 janvier (première séance post-Nouvel An). Volume réduit mais orientation résolument haussière, dans la continuité du <strong>+10.42% sur 2025</strong>.</p>
+      
+      <h3>🏆 Les stars de la séance</h3>
+      <ul>
+        <li><strong>STMicroelectronics +4.5%</strong> : Semi-conducteurs en feu, IA boost.</li>
+        <li><strong>Safran +3.3% / Airbus +2.7%</strong> : Aéronautique confiant sur commandes 2026.</li>
+        <li><strong>Stellantis +3.3%</strong> : Auto européenne rebondit après -25% en 2025.</li>
+      </ul>
+      
+      <h3>🔍 Analyse technique</h3>
+      <p>Seuil psychologique des <strong>8 200 pts</strong> en vue. RSI neutre (55), MACD haussier. Supports : 8 100 / 8 000. Résistances : 8 300 / 8 500.</p>
+      <p>Moyennes mobiles 50/200 en croisement doré → signal BUY structurel.</p>
+      
+      <h3>📊 Macro : À surveiller cette semaine</h3>
+      <ul>
+        <li><strong>Mardi :</strong> PMI industrie France/Allemagne décembre.</li>
+        <li><strong>Mercredi :</strong> Discours Fed (taux stables ?).</li>
+        <li><strong>Vendredi :</strong> NFP US → Recentrage emploi Fed.</li>
+      </ul>
+      
+      <h3>💼 Stratégie portefeuille</h3>
+      <p><strong>À l'achat :</strong> STMicro (cible 45€), Safran (défense civile), ETF CAC40 (LETF).</p>
+      <p><strong>À surveiller :</strong> Michelin (+1%) après acquisitions US (Cooley/Tex Tech) → composites auto.</p>
+      <p><strong>À éviter :</strong> Banques sensibles taux (volumes clairsemés).</p>
+      
+      <h3>🌍 Contexte global</h3>
+      <p>Wall Street +0.74% S&P500 (férié réduit). Europe +11% attendu 2026 (Reuters). Dollar faible booste exportateurs.</p>
+      
+      <h3>⚠️ Risques</h3>
+      <p>Géopolitique Moyen-Orient + Trump Venezuela. PMI décevants = repli vers 8 000.</p>
+      
+      <p><em>Source : Boursorama / Cercle Finance | Analyse 04/01/2026 17h45</em></p>
+      <hr><small>Swipe pour + de news ➡️</small>
     ]]></description>
-    <pubDate>Mon, 04 Jan 2026 17:00:00 +0100</pubDate>
-    <guid>news1</guid>
+    <pubDate>Sun, 04 Jan 2026 17:45:00 +0100</pubDate>
+    <guid>cac40-040126-complete</guid>
   </item>
-  <item>
-    <title>Tesla -8% : Résultats décevants</title>
-    <link>https://boursorama.com/tesla</link>
-    <description><![CDATA[
-      <p>CA +2% vs consensus +12%. Robotaxis repoussés à 2026.</p>
-      <p>Stratégie : Short ou attendre dip-buy ?</p>
-    ]]></description>
-    <pubDate>Mon, 04 Jan 2026 16:30:00 +0100</pubDate>
-    <guid>news2</guid>
-  </item>
+  
 </channel>
 </rss>

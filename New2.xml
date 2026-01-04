@@ -3,18 +3,50 @@
 <channel>
   <title>📰 News Finance du Jour</title>
   <link>https://raw.githubusercontent.com/chaveetienne74-png/news-finance-feed/main/New2.xml</link>
-  <description>7 derniers articles finance</description>
+  <description>PÉTROLE : Double choc géopolitique</description>
   
   <item>
-    <title>PÉTROLE : Double choc géopolitique</title>
-    <link>https://exemple.com/petrole</link>
+    <title>PÉTROLE : Le double choc géopolitique réveille un marché anesthésié</title>
+    <link>https://www.lequipe-marches.fr/petrole-choc-geopolitique</link>
+    
     <description><![CDATA[
-      <img src="https://images.unsplash.com/photo-1652059515594-834a31e83feb?w=400" style="width:100%;height:200px;object-fit:cover;margin-bottom:15px;"/>
-      <strong>Brent >61$ :</strong> Opération US Venezuela + frappes Russie. Prime risque +3-4$/b. Sanctions 400kb/j. OPEC+ 5M réserves. TotalEnergies surveiller. Source Vanda 04/01.
+      <!-- IMAGE VERTICALE 400x600 MOBILE -->
+      <img src="https://images.unsplash.com/photo-1542224569-f103b8d3b892?w=400&fit=crop&h=600&crop=top" 
+           alt="Pétrole géopolitique" style="width:100%;max-height:300px;height:auto;object-fit:cover;margin-bottom:15px;border-radius:8px;"/>
+      
+      <h3>Par L'Équipe Marchés | Dimanche 04 Janvier 2026</h3>
+      
+      <p><strong>Le baril de Brent a bondi au-dessus des 61$</strong> ce week-end, tiré de sa torpeur par une opération militaire américaine surprise au Venezuela et une recrudescence des frappes en Russie. Si la <em>prime de risque géopolitique</em> est de retour, elle se heurte toutefois à une réalité fondamentale : <strong>le monde ne manque pas de pétrole</strong>.</p>
+      
+      <h4>L'année 2026 s'ouvre sur un scénario que peu de traders avaient anticipé</h4>
+      <p>Alors que le consensus de décembre tablait sur une baisse continue des cours due à la faiblesse de la demande chinoise, deux "<strong>Cygnes Noirs</strong>" géopolitiques viennent de rebattre les cartes dès les premières 48 heures de janvier.</p>
+      
+      <h3>Le détonateur vénézuélien</h3>
+      <p>L'élément déclencheur principal reste l'opération "<strong>Flashpoint</strong>" menée par Washington, aboutissant à l'<strong>exfiltration et la capture de Nicolas Maduro</strong>. Si l'événement est une victoire politique pour la Maison Blanche, il plonge les marchés énergétiques dans l'incertitude.</p>
+      <p>Les <strong>sanctions immédiates</strong> imposées sur la flotte fantôme vénézuélienne menacent de retirer environ <strong>400 000 barils par jour</strong> du marché mondial à court terme. Pour les raffineurs du Golfe du Mexique, habitués au brut lourd vénézuélien, c'est un casse-tête logistique qui soutient mécaniquement les prix du <strong>WTI</strong>.</p>
+      
+      <h3>L'escalade sur le front Est</h3>
+      <p>Simultanément, la guerre d'usure en Europe de l'Est a franchi un nouveau cap le 1er janvier. Les <strong>frappes de drones ukrainiens coordonnées</strong> sur les infrastructures de la région de Krasnodar (notamment la raffinerie d'<strong>Ilsky</strong>) rappellent aux investisseurs la vulnérabilité de la chaîne d'approvisionnement russe.</p>
+      <p>Ce rappel à l'ordre force les algorithmes de trading à réintégrer une "<strong>prime de guerre</strong>" de <strong>3 à 4 dollars par baril</strong>, qui s'était évaporée fin 2025.</p>
+      
+      <h3>Le plafond de verre des fondamentaux</h3>
+      <p>Toutefois, l'euphorie haussière reste contenue. Comme le soulignent les analystes de <strong>Vanda Insights</strong>, "<em>le bruit géopolitique ne peut masquer éternellement le signal fondamental</em>".</p>
+      <p>Le marché reste <strong>structurellement excédentaire</strong>. La production non-OPEC (États-Unis, Brésil, Guyane) continue d'inonder le marché, et l'<strong>OPEC+ dispose toujours de 5 millions de barils/jour</strong> de capacités de réserve.</p>
+      
+      <h3>Conclusion et perspectives</h3>
+      <p>Pour la semaine à venir, le <strong>seuil technique des 65$ sur le Brent</strong> agira comme un juge de paix. Si les troubles à Caracas s'enlisent et bloquent physiquement les terminaux pétroliers, une cassure à la hausse est envisageable.</p>
+      <p>Dans le cas contraire, la gravité de l'<strong>offre excédentaire</strong> reprendra ses droits, limitant le potentiel de hausse des valeurs pétrolières comme <strong>TotalEnergies</strong> ou <strong>Exxon</strong>, qui profitent pour l'instant d'un rebond tactique.</p>
+      
+      <hr style="margin:20px 0;border:1px solid #ddd;"/>
+      <small>Source : L'Équipe Marchés | 04/01/2026 19h22</small>
     ]]></description>
-    <media:thumbnail url="https://images.unsplash.com/photo-1652059515594-834a31e83feb?w=400&fit=crop" width="400" height="250"/>
-    <pubDate>Sun, 04 Jan 2026 19:00:00 +0100</pubDate>
-    <guid>news-040126-petrole</guid>
+    
+    <!-- IMAGE BACKUP GoodBarber -->
+    <media:thumbnail url="https://images.unsplash.com/photo-1542224569-f103b8d3b892?w=400&h=600&fit=crop&crop=face" width="400" height="600"/>
+    
+    <pubDate>Sun, 04 Jan 2026 19:22:00 +0100</pubDate>
+    <guid>petrole-040126-lequipe</guid>
   </item>
+  
 </channel>
 </rss>

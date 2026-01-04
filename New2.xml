@@ -1,52 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
-  <title>📰 News Finance du Jour</title>
-  <link>https://raw.githubusercontent.com/chaveetienne74-png/news-finance-feed/main/New2.xml</link>
-  <description>PÉTROLE : Double choc géopolitique</description>
+  <title>Actualités Financières 2026</title>
+  <link>https://www.votresite.com/finance</link>
+  <description>Analyses et tendances des marchés financiers</description>
   
   <item>
-    <title>PTDEFEFEFEé</title>
-    <link>https://www.lequipe-marches.fr/petrole-choc-geopolitique</link>
+    <title>LA RÉSERVE FÉDÉRALE AU CARREFOUR DE 2026 : UNE DIVISION INÉDITE</title>
+    <link>[LIEN_ARTICLE]</link>
     
     <description><![CDATA[
-      <!-- IMAGE VERTICALE 400x600 MOBILE -->
-      <img src="https://images.pexels.com/photos/1716008/pexels-photo-1716008.jpeg?=400&fit=crop&h=600&crop=top" 
-           alt="Pétrole géopolitique" style="width:100%;max-height:300px;height:auto;object-fit:cover;margin-bottom:15px;border-radius:8px;"/>
+      <!-- IMAGE ORIGINALE - TAILLE NATIVE -->
+      <img src="[https://images.pexels.com/photos/17302609/pexels-photo-17302609.jpeg]" 
+           alt="Réserve Fédérale USA - ©Pexels" 
+           style="width:100%;max-height:300px;height:auto;object-fit:cover;margin-bottom:15px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.15);"/>
       
-      <h3>Par L'Équipe Marchés | Dimanche 04 Janvier 2026</h3>
+      <h3 style="color:#1a3c5e;margin-bottom:12px;">Par Rédaction Finance | 04 Janvier 2026</h3>
       
-      <p><strong>Le baril de Brent a bondi au-dessus des 61$</strong> ce week-end, tiré de sa torpeur par une opération militaire américaine surprise au Venezuela et une recrudescence des frappes en Russie. Si la <em>prime de risque géopolitique</em> est de retour, elle se heurte toutefois à une réalité fondamentale : <strong>le monde ne manque pas de pétrole</strong>.</p>
+      <p><strong>Le FOMC reste divisé sur la stratégie monétaire : statu quo en janvier, puis bifurcation en mars. Les marchés se préparent à une année de volatilité guidée par les données d'inflation.</strong></p>
       
-      <h4>L'année 2026 s'ouvre sur un scénario que peu de traders avaient anticipé</h4>
-      <p>Alors que le consensus de décembre tablait sur une baisse continue des cours due à la faiblesse de la demande chinoise, deux "<strong>Cygnes Noirs</strong>" géopolitiques viennent de rebattre les cartes dès les premières 48 heures de janvier.</p>
+      <h4 style="color:#d32f2f;">LES DIVISIONS AU CŒUR DU FOMC</h4>
+      <p>Les minutes de la réunion de décembre 2025 révèlent une fracture majeure au sein du Comité fédéral de l'open market (FOMC) — la plus profonde observée en trois décennies. Malgré une baisse des taux de 25 points de base décidée le 10 décembre (portant le taux directeur à 3,5%-3,75%), le vote a enregistré deux dissidences : un gouverneur plaidant pour l'inaction, un autre pour une réduction de 50 points de base.</p> 
+      <p>Cette configuration reflète une polarisation extrême : d'un côté, les « colombes » craignent un affaiblissement du marché de l'emploi ; de l'autre, les « faucons » redoutent une capitulation prématurée face à l'inflation persistante. Le président de la Fed Jerome Powell est en proie à un équilibriste politique délicat, alors que quatre présidents de banques régionales ont publiquement exprimé des réserves quant aux nouvelles baisses.</p>
       
-      <h3>Le détonateur vénézuélien</h3>
-      <p>L'élément déclencheur principal reste l'opération "<strong>Flashpoint</strong>" menée par Washington, aboutissant à l'<strong>exfiltration et la capture de Nicolas Maduro</strong>. Si l'événement est une victoire politique pour la Maison Blanche, il plonge les marchés énergétiques dans l'incertitude.</p>
-      <p>Les <strong>sanctions immédiates</strong> imposées sur la flotte fantôme vénézuélienne menacent de retirer environ <strong>400 000 barils par jour</strong> du marché mondial à court terme. Pour les raffineurs du Golfe du Mexique, habitués au brut lourd vénézuélien, c'est un casse-tête logistique qui soutient mécaniquement les prix du <strong>WTI</strong>.</p>
+      <h3>JANVIER : PAUSE, MARS : BIFURCATION</h3>
+      <p>Les données du CME FedWatch, mises à jour au 4 janvier, indiquent une probabilité de 81,4% de statu quo en janvier 2026. La réunion du FOMC du 28 janvier s'annonce comme un simple sursis, aucune donnée majeure n'étant disponible pour justifier un changement immédiat.</p>
+      <p>En revanche, mars 2026 présente une bifurcation claire. À cette date, les probabilités suggèrent 45,6% de baisse de 25 points de base, 46,7% de maintien et 7,7% de baisse de 50 points de base. Cette incertitude reflète une dépendance totale aux données : l'indice PCE, les chiffres d'emploi et le ISM manufacturier seront déterminants.</p>
       
-      <h3>L'escalade sur le front Est</h3>
-      <p>Simultanément, la guerre d'usure en Europe de l'Est a franchi un nouveau cap le 1er janvier. Les <strong>frappes de drones ukrainiens coordonnées</strong> sur les infrastructures de la région de Krasnodar (notamment la raffinerie d'<strong>Ilsky</strong>) rappellent aux investisseurs la vulnérabilité de la chaîne d'approvisionnement russe.</p>
-      <p>Ce rappel à l'ordre force les algorithmes de trading à réintégrer une "<strong>prime de guerre</strong>" de <strong>3 à 4 dollars par baril</strong>, qui s'était évaporée fin 2025.</p>
-      
-      <h3>Le plafond de verre des fondamentaux</h3>
-      <p>Toutefois, l'euphorie haussière reste contenue. Comme le soulignent les analystes de <strong>Vanda Insights</strong>, "<em>le bruit géopolitique ne peut masquer éternellement le signal fondamental</em>".</p>
-      <p>Le marché reste <strong>structurellement excédentaire</strong>. La production non-OPEC (États-Unis, Brésil, Guyane) continue d'inonder le marché, et l'<strong>OPEC+ dispose toujours de 5 millions de barils/jour</strong> de capacités de réserve.</p>
+      <h3>IMPLICATIONS POUR LES MARCHÉS</h3>
+      <p>Cette impasse monétaire crée un vide politique favorisant une volatilité accrue. Les obligations montent si les données d'inflation reculent ; les actions se raffermissent avec la perspective de nouveau soutien monétaire en cas de faiblesse économique. Les spreads de crédit (iTraxx, CDX) devraient se stabiliser court terme, puis se resserrer progressivement si les baisses se matérialisent en T2 2026.</p>
       
       <h3>Conclusion et perspectives</h3>
-      <p>Pour la semaine à venir, le <strong>seuil technique des 65$ sur le Brent</strong> agira comme un juge de paix. Si les troubles à Caracas s'enlisent et bloquent physiquement les terminaux pétroliers, une cassure à la hausse est envisageable.</p>
-      <p>Dans le cas contraire, la gravité de l'<strong>offre excédentaire</strong> reprendra ses droits, limitant le potentiel de hausse des valeurs pétrolières comme <strong>TotalEnergies</strong> ou <strong>Exxon</strong>, qui profitent pour l'instant d'un rebond tactique.</p>
+      <p>Les points de surveillance critiques pour les semaines à venir restent l'ISM manufacturier, l'indice PCE core et le rapport sur l'emploi de février. Chaque déception pourrait précipiter une baisse en mars ; chaque surprise à la hausse consoliderait la pause monétaire.</p>
       
-      <hr style="margin:20px 0;border:1px solid #ddd;"/>
-      <small>Source : L'Équipe Marchés | 04/01/2026 19h22</small>
+      <hr style="margin:25px 0;border:0;border-top:2px solid #1a3c5e;"/>
+      <p style="text-align:center;color:#666;font-style:italic;">
+        <small>Source : Analyse Marchés | 04/01/2026 19:42</small>
+      </p>
     ]]></description>
     
-    <!-- IMAGE BACKUP GoodBarber -->
-    <media:thumbnail url="https://images.unsplash.com/photo-1542224569-f103b8d3b892?w=400&h=600&fit=crop&crop=face" width="400" height="600"/>
+    <!-- BACKUP GoodBarber - TAILLE ORIGINALE -->
+    <media:thumbnail 
+      url="[URL_IMAGE]" 
+      width="[IMAGE_WIDTH]" 
+      height="[IMAGE_HEIGHT]"/>
     
-    <pubDate>Sun, 04 Jan 2026 19:22:00 +0100</pubDate>
-    <guid>petrole-040126-lequipe</guid>
+    <pubDate>Sun, 04 Jan 2026 19:42:00 +0100</pubDate>
+    <guid>[GUID_UNIQUE]</guid>
   </item>
   
 </channel>
-</rss>

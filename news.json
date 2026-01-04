@@ -1,0 +1,23 @@
+{
+  "feed": {
+    "title": "News Finance du Jour",
+    "items": [
+      {
+        "type": "article",
+        "title": "CAC40 en hausse de 1.2% après résultats solides",
+        "thumbnail": "https://via.placeholder.com/300x200/007BFF/FFFFFF?text=CAC40",
+        "content": "<h3>Résumé rapide :</h3><p>Les indices européens ont rebondi ce lundi. Le CAC40 gagne +1.2% à 7 450 points, porté par les valeurs bancaires. À suivre : discours Fed demain.</p><p>Impact : Opportunité pour les ETF Europe.</p>",
+        "date": "04/01/2026",
+        "url": "https://bfmbusiness.bfmtv.com/bourse/cac40-hausse_AN-202601040123.html"
+      },
+      {
+        "type": "article",
+        "title": "Tesla chute de 8% en after-market",
+        "thumbnail": "https://via.placeholder.com/300x200/DC3545/FFFFFF?text=Tesla",
+        "content": "<p>Tesla dévisse après résultats Q4 décevants. CA +2% seulement vs consensus +12%. Elon promet robotaxis en 2026.</p><p>Position : Vente short ou attendre rebond tech ?</p>",
+        "date": "04/01/2026",
+        "url": "https://www.boursorama.com/bourse/actualites/tesla-chute-apres-resultats-123456"
+      }
+    ]
+  }
+}

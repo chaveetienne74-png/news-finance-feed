@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>📰 News Finance du Jour</title>
+  <link>https://github.com/tonpseudo/news-finance-feed</link>
+  <description>Top 3 news marchés - Swipe pour lire</description>
+  <item>
+    <title>CAC40 +1.2% : Banques en feu 🔥</title>
+    <link>https://bfm.fr/cac40</link>
+    <description><![CDATA[
+      <h3>En bref :</h3>
+      <p>Rebond européen après résultats trimestriels solides. CAC40 à 7 450pts.</p>
+      <p><strong>Impact :</strong> ETF Euro Stoxx 50 à l'achat.</p>
+      <p>Source : BFM Business</p>
+    ]]></description>
+    <pubDate>Mon, 04 Jan 2026 17:00:00 +0100</pubDate>
+    <guid>news1</guid>
+  </item>
+  <item>
+    <title>Tesla -8% : Résultats décevants</title>
+    <link>https://boursorama.com/tesla</link>
+    <description><![CDATA[
+      <p>CA +2% vs consensus +12%. Robotaxis repoussés à 2026.</p>
+      <p>Stratégie : Short ou attendre dip-buy ?</p>
+    ]]></description>
+    <pubDate>Mon, 04 Jan 2026 16:30:00 +0100</pubDate>
+    <guid>news2</guid>
+  </item>
+</channel>
+</rss>

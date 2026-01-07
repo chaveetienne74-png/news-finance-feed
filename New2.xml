@@ -7,7 +7,7 @@
     <title>🇫🇷 CAC40 +0.56% : L'Europe cyclique reprend du poil de la bête</title>
     <link>https://www.boursorama.com/cac40</link>
     <description>Le CAC 40 (+0.56% à 8 195 pts) confirme sa résilience en ouverture 2026. STMicroelectronics (+4.5%) profite de la ruée IA européenne tandis que Safran (+3.3%) et Airbus (+2.7%) affichent des carnets de commandes records à 650 Md€. Stellantis rebondit (+3.3%) après -25% en 2025. Technique : 8 200 pts psychologique en vue, RSI 55 haussier. Agenda : PMI mardi, Fed mercredi. Stratégie : STMicro cible 45€ (+20%), ETF Stoxx 600. Risque : géopolitique Moyen-Orient. Source Boursorama/Cercle Finance 04/01.</description>
-    <enclosure url="https://images.pexels.com/photos/17302609/pexels-photo-17302609.jpeg"/>
+    <img src="https://images.pexels.com/photos/17302609/pexels-photo-17302609.jpeg"/>
     <pubDate>Sun, 04 Jan 2026 18:30:00 +0100</pubDate>
     <guid>040126-cac</guid>
   </item>
@@ -16,54 +16,9 @@
     <title>🇺🇸 Wall Street : 4 actions candidates au club Nvidia (1T$)</title>
     <link>https://finance.yahoo.com/news/4-stocks-buy-january</link>
     <description>S&P500 termine 2025 à +28% mais janvier s'annonce rotationnel. Oracle, Netflix, Broadcom, TSMC visés 1T$ par stratèges (Yahoo Finance). Rotation tech→value : Visa, Exxon +15% potentiel. Dollar -9% 2025 booste international. Fed minutes dovish → cut mars probable (60%). Stratégie : VIX 15 → volatilité buy. Source Yahoo Finance 04/01.</description>
-    <enclosure url="https://images.pexels.com/photos/17302609/pexels-photo-17302609.jpeg"/>
+   <img src="https://images.pexels.com/photos/17302609/pexels-photo-17302609.jpeg"/>
     <pubDate>Sun, 04 Jan 2026 17:45:00 +0100</pubDate>
     <guid>040126-wallst</guid>
-  </item>
-  
-  <item>
-    <title>🌍 Europe : +11% attendu en 2026 (Reuters poll)</title>
-    <link>https://reuters.com/business</link>
-    <description>Actions européennes bon marché (PER 12x vs S&P 22x) → +11% consensus 39 stratèges Reuters. Croissance US/Chine + IA = carburant. Stoxx 600 cible 550pts. Secteurs : industrie +16%, énergie +14%. Risques : Trump tariffs, élections midterms US. Buy : ASML, Siemens Energy. Source Reuters 04/01.</description>
-    <enclosure url="https://images.pexels.com/photos/17302609/pexels-photo-17302609.jpeg"/>
-    <pubDate>Sat, 03 Jan 2026 16:30:00 +0100</pubDate>
-    <guid>030126-europe</guid>
-  </item>
-  
-  <item>
-    <title>💰 Bitcoin approche 95k$ : ETF inflows record</title>
-    <link>https://coindesk.com</link>
-    <description>Bitcoin +152% 2025 consolide 93k$. BlackRock ETF +$40Md inflows YTD. Halving effet persiste. Fed dovish → BTC hedge inflation. Résistance 100k$, support 88k$. Altcoins : Solana +420%. Régul US crypto-friendly post-Trump. Position : BTC long 95-100k$. Source CoinDesk 03/01.</description>
-    <enclosure url=https://images.pexels.com/photos/17302609/pexels-photo-17302609.jpeg"/>
-    <pubDate>Sat, 03 Jan 2026 15:00:00 +0100</pubDate>
-    <guid>030126-btc</guid>
-  </item>
-  
-  <item>
-    <title>🏦 Fed : Minutes dovish, cut mars 60% probabilité</title>
-    <link>https://bloomberg.com/fed</link>
-    <description>Minutes FOMC décembre : "progress inflation sustained". Taux 4.25-4.5% maintenus mais forward guidance assoupli. Marchés : 1 cut 2026 (mars 60%, juin 85%). Impact actions : Nasdaq +2% post-minutes. Stratégie : Duration 7-10 ans US Treasuries. Source Bloomberg 02/01.</description>
-    <enclosure url="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=400" type="image/jpeg"/>
-    <pubDate>Fri, 02 Jan 2026 17:00:00 +0100</pubDate>
-    <guid>020126-fed</guid>
-  </item>
-  
-  <item>
-    <title>🇨🇳 Chine PMI industrie 49.2 : Reprise timide</title>
-    <link>https://reuters.com/china</link>
-    <description>Caixin PMI décembre 49.2 (vs 49.4 nov). Stimulus 2T¥ CNY attendus Q1. Immobilier stabilisation (Vanke +3%). Export +6.7% 2025. Actions HK : Hang Seng +2.1%. Buy : Alibaba, Tencent dip. Risque : Trump tariffs 60%. Source Reuters 02/01.</description>
-    <enclosure url="https://images.unsplash.com/photo-1558618047-3c8c76ca6e42?w=400" type="image/jpeg"/>
-    <pubDate>Fri, 02 Jan 2026 14:00:00 +0100</pubDate>
-    <guid>020126-chine</guid>
-  </item>
-  
-  <item>
-    <title>🪙 Or 2650$ record : Dollar faible + géopolitique</title>
-    <link>https://kitco.com/gold</link>
-    <description>Spot gold 2650$ (+28% 2025). DXY -9% boost. Moyen-Orient tensions + banques centrales (PBoC +225t oz). GLD ETF inflows record. Technique : 2700$ cible, support 2580$. Argent 32$. Stratégie : Or physique allocation 8-12%. Source Kitco 01/01.</description>
-    <enclosure url="https://images.unsplash.com/photo-1667099798975-53616e6aef0b?w=400" type="image/jpeg"/>
-    <pubDate>Thu, 01 Jan 2026 16:00:00 +0100</pubDate>
-    <guid>010126-gold</guid>
   </item>
 </channel>
 </rss>
